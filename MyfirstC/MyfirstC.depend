@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568376364 source:h:\c code\myfirstc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568376269 source:h:\c code\myfirstc\tailhead.c
+	<stdio.h>
+
